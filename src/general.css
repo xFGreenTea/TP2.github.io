@@ -45,3 +45,13 @@ a:hover{
 #nav_texte:hover {
 color: aqua;
 }
+#nav_texte:active {
+    color: aqua;
+    }
+
+.card {
+    background-color: rgba(0, 0, 0, 0.778);
+}
+.card-title {
+    color: #fff;
+}
